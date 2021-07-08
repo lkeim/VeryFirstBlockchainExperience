@@ -1,8 +1,7 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.8.6;
 
 import "./ERC721Full.sol";
 
-contract MemoryToken is ERC721Full {
-  // Code goes here...
-
+contract MemoryToken{
+  string public contract_name = "Memory Token";
 }
