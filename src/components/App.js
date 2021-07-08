@@ -40,7 +40,7 @@ class App extends Component {
 
                 <div className="grid mb-4" >
 
-                  {/* Code goes here... */}
+                  {/* Code goes here.... */}
 
                 </div>
 
